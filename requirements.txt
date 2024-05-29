@@ -1,0 +1,5 @@
+numpy==1.26.3
+open-cv==4.9.0.80
+cvzone==1.4.1
+mediapipe==0.8.7.2
+pynput==1.7.6
